@@ -47,9 +47,6 @@ public class Map : MonoBehaviour
                 tile.setXY(i, j);
                 mapTileList[i, j] = tile;
             }
-
-
-
         }
     }
     bool startchoose = false;
