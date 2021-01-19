@@ -155,6 +155,7 @@ MonoBehaviour:
   col: 10
   mapTile: {fileID: 4466853368593668026, guid: e348a479f91839a429b0a6ab0e976d5c, type: 3}
   map: {fileID: 256362979}
+  tiles: []
 --- !u!4 &256362981
 Transform:
   m_ObjectHideFlags: 0

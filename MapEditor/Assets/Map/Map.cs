@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Map : MonoBehaviour
@@ -26,7 +27,7 @@ public class Map : MonoBehaviour
         // initMap();
     }
 
-   //创建地图
+    //创建地图
     public void InitMap(int currow, int curcol)
     {
         this.row = currow;
@@ -52,6 +53,7 @@ public class Map : MonoBehaviour
         }
     }
     bool startchoose = false;
+    public List<MapTile> tiles = new List<MapTile>();
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -63,11 +65,15 @@ public class Map : MonoBehaviour
             startchoose = false;
         }
         //点击地图上的图快，使其变色。
-      //  if (Input.GetMouseButtonDown(0))
+        //  if (Input.GetMouseButtonDown(0))
         if (startchoose)
         {
             MapTile tile = getGameXY(Input.mousePosition);
-
+            if (!tiles.Contains(tile))
+            {
+                tiles.Add(tile);
+            }
+           
             tile.GetComponent<Renderer>().material.color = Color.green;
         }
         //  if (mapTileList.Length > 0)
