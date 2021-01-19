@@ -54,9 +54,9 @@ public class Editor_Map : EditorWindow
                 var list = obj.GetComponent<Map>().tiles;
                 for (int i = 0; i <list.Count; i++)
                 {
-                    Vector3 v3 = new Vector3(list[i].X, list[i].Y, 0);
                     GameObject h = Instantiate(house);
-                    h.transform.localPosition = v3;
+                    h.transform.SetParent(list[i].transform);
+                    h.transform.localPosition = new Vector3(0, 0.5f, 0);
                    
                 }
                 
