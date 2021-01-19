@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-
 public class Editor_Map : EditorWindow
 {
     static Editor_Map mapwindow;
@@ -56,10 +55,8 @@ public class Editor_Map : EditorWindow
                 {
                     GameObject h = Instantiate(house);
                     h.transform.SetParent(list[i].transform);
-                    h.transform.localPosition = new Vector3(0, 0.5f, 0);
-                   
+                    h.transform.localPosition = new Vector3(0, 0.5f, 0);                   
                 }
-                
             }
         }
       
