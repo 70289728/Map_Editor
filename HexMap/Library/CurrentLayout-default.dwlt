@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 17
+  controlID: 36
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 16
+  controlID: 35
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -425,7 +425,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -438,7 +438,7 @@ MonoBehaviour:
       y: 21
       width: 820
       height: 455
-    m_Scale: {x: 0.5288889, y: 0.5288889}
+    m_Scale: {x: 0.50555557, y: 0.50555557}
     m_Translation: {x: 410, y: 227.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -446,12 +446,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -775.2101
-      y: -430.14706
-      width: 1550.4202
-      height: 860.2941
+      x: -810.989
+      y: -450
+      width: 1621.978
+      height: 900
     m_MinimalGUI: 1
-  m_defaultScale: 0.5288889
+  m_defaultScale: 0.50555557
   m_LastWindowPixelSize: {x: 820, y: 476}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -487,7 +487,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a0380000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 5cfbffff
       m_RenameOverlay:
@@ -692,20 +692,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: "E:\\QQ\\qq\u4E0B\u8F7D\u6587\u4EF6\\1976740747\\FileRecv\\HexMap\\HexMap"
+  m_LastProjectPath: C:\Users\19767\Documents\GitHub\Map_Editor\HexMap
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 38410000
     m_LastClickedID: 16696
-    m_ExpandedIDs: 00000000a0380000
+    m_ExpandedIDs: 00000000a2380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -733,7 +732,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000a0380000
+    m_ExpandedIDs: ffffffff00000000a2380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

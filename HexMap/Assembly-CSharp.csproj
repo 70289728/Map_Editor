@@ -253,13 +253,13 @@
       <HintPath>D:/AllUnityVersion/2019.4.12f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/AllUnityVersion/2019.4.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -616,73 +616,73 @@
       <HintPath>D:/AllUnityVersion/2019.4.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>E:/QQ/qq下载文件/1976740747/FileRecv/HexMap/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/19767/Documents/GitHub/Map_Editor/HexMap/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
